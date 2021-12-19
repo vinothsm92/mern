@@ -1,3 +1,3 @@
 # mern
 
-Npm install in root folder and backend folder
+run npm install in root folder and backend folder
